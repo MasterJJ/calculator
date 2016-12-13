@@ -1,2 +1,2 @@
 # calculator
-the basic caculator
+the basic calculator
